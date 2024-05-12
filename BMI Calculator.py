@@ -9,4 +9,4 @@ BMI = round(float(weight) / (float(height) ** 2), 2)
 
 # Convert BMI to string for concatenation
 print('Your BMI equals ' + str(BMI))
-input("Press anything to continue...")
+input("Press Enter to continue...")
